@@ -5,7 +5,6 @@ Este repositório contém uma coleção de scripts Bash projetados para facilita
 ## 📁 Scripts Disponíveis
 
 - **`DISCIPULUS.sh`**: Script principal para gerenciamento de atividades.
-- **`liveServer.sh`**: Inicia um servidor local para desenvolvimento em tempo real.
 - **`package.sh`**: Automatiza a instalação de pacotes no sistema.
 - **`restart.sh`**: Reinicia serviços ou o sistema conforme necessário.
 - **`runXampp.sh`**: Executa o XAMPP para desenvolvimento web.
